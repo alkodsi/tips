@@ -1,0 +1,2 @@
+ - as ROOT on S3, go to /mnt/storageBig7/resources/utils/ansible/deploy
+ - ./call-ansible-playbook nodes_update.yml -vv

@@ -1,0 +1,5 @@
+latex file.tex
+bibtex file
+latex file.tex
+latex file.tex
+dvipdfmx file.dvi

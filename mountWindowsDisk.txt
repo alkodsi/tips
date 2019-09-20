@@ -1,0 +1,10 @@
+
+# 1- check name of the disk
+lsblk
+
+# 2- create a directory to mount
+mkdir ~/harddisk
+
+# 3- mount
+sudo mount /dev/$name/ ~/harddisk
+

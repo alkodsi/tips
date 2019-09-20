@@ -1,0 +1,1 @@
+convert -flatten -background white -density 300 Figure5.pdf -compress lzw Figure5.tif

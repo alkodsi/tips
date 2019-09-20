@@ -1,0 +1,2 @@
+1. open 80 port for public
+2. as admin, run: certbot renew

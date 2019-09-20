@@ -1,0 +1,11 @@
+https://www.howtoforge.com/how-to-configure-a-nfs-server-and-mount-nfs-shares-on-ubuntu-14.04
+
+open port 2049
+
+- updating new disk
+1. create directories in both servers.
+2. edit as a root /etc/exports
+3. sudo exportfs -a
+4. sudo service nfs-kernel-server start
+5. sudo mount slg.anduril.org:/mnt/storage2/ /mnt/storage2/
+
