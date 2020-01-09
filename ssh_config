@@ -1,0 +1,13 @@
+host slg
+    hostname 86.50.168.236
+    user amjad
+    port 22
+    ForwardX11 yes
+    Compression yes
+
+host slg2
+    hostname 195.148.31.140
+    user amjad
+    port 22
+    ForwardX11 yes
+    Compression yes
